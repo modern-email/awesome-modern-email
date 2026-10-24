@@ -1,6 +1,6 @@
 # Awesome Modern Email
 
-A list of aweseome [Modern Email](https://github.com/modern-email/modern-email) resources
+A list of aweseome [Modern Email](https://github.com/modern-email) resources
 
 ## Developer discussion
 
@@ -8,7 +8,8 @@ A list of aweseome [Modern Email](https://github.com/modern-email/modern-email) 
 
 ## Developer events
 
-- [Modern Email DevRoom at FOSDEM](https://github.com/modern-email/modern-email#DevRoom) 
+- [Modern Email DevRoom at FOSDEM](https://github.com/modern-email#fosdem)
+- [Modern Email pre-FOSDEM Hackathon](https://github.com/modern-email#fosdem) 
 - [Makebetter.email conference](https://makebetter.email/)
 
 ## Standards
