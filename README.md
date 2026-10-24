@@ -32,7 +32,14 @@ Note that various prior WGs still run mailing lists with certain traffic.
 
 ### Servers 
 
+- [Cyrus](https://www.cyrusimap.org/)
+- [Dovecot](https://dovecot.org/)
+- [Stalwart](https://stalw.art/)
+
 ### Clients
+
+- [Parula](https://parula.app/)
+- [Thunderbird](https://www.thunderbird.net)
 
 ### Sovereign email stacks
 
